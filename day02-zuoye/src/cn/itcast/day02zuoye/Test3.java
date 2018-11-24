@@ -5,6 +5,7 @@ import java.util.ArrayList;
 //三、定义一个方法，要求此方法把int数组转成存有相同元素的集合(集合里面的元素是Integer)，并返回。
 public class Test3 {
     public static void main(String[] args) {
+        System.out.println(22233);
         int[] a ={1,52,321,512,521};
         System.out.println(A(a));
     }
